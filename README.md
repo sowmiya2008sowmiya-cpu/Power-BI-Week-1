@@ -24,10 +24,10 @@ The Superstore Sales dataset was imported, cleaned, and transformed using Power 
 - Created Name of Day for date-based analysis
 - Applied all transformations using Close & Apply
 
-## Outcome
-
-The dataset was successfully cleaned and prepared for further analysis and visualization in Power BI.# Power-BI-Week-1
-
 ## Report
 
 The complete Power BI Week 1 report, including screenshots of the completed steps, is available in the PDF file.
+
+## Outcome
+
+The dataset was successfully cleaned and prepared for further analysis and visualization in Power BI.
